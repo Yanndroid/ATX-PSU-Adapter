@@ -1,10 +1,5 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
-J1,Conn_02x12_Top_Bottom,Molex_Mini-Fit_Jr_5566-24A_2x12_P4.20mm_Vertical,57.5,-36.895,180.0,top
-J2,Conn_01x06,PinHeader_1x06_P2.54mm_Vertical,34.32,-55.75,0.0,top
-J3,Conn_01x06,PinHeader_1x06_P2.54mm_Vertical,38.52,-55.75,0.0,top
-J4,Conn_01x06,PinHeader_1x06_P2.54mm_Vertical,42.72,-55.75,0.0,top
-J5,Conn_01x06,PinHeader_1x06_P2.54mm_Vertical,46.92,-55.75,0.0,top
-J6,Conn_01x06,PinHeader_1x06_P2.54mm_Vertical,51.12,-55.75,0.0,top
-J7,Conn_02x03_Odd_Even,PinHeader_2x03_P2.54mm_Vertical,64.565,-55.865,90.0,top
+J1,ATX-24,Molex_Mini-Fit_Jr_5566-24A_2x12_P4.20mm_Vertical,57.5,-36.85,180.0,top
+J2,Conn_02x03_Odd_Even,PinHeader_2x03_P2.54mm_Vertical,64.565,-55.865,90.0,top
 R1,R,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,77.2,-57.2,0.0,top
 U1,PC817,DIP-4_W7.62mm,78.6,-50.6,180.0,top
