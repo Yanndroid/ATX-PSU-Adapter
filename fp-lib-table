@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Connector_Molex_Mod")(type "KiCad")(uri "${KIPRJMOD}/libs/Connector_Molex_Mod.pretty")(options "")(descr ""))
+)
