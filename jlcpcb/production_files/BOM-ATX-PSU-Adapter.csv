@@ -1,6 +1,6 @@
 Comment,Designator,Footprint,LCSC
 Conn_01x01,J5,SolderWire-0.75sqmm_1x01_D1.25mm_OD2.3mm,
-ATX-24,J1,Molex_Mini-Fit_Jr_5566-24A_2x12_P4.20mm_Vertical,
+ATX-24,J1,Molex_Mod_Mini-Fit_Jr_5566-24A_2x12_P4.20mm_Vertical,
 PC817,U1,DIP-4_W7.62mm,
 MountingHole_Pad,H1,MountingHole_2.5mm_Pad,
 MountingHole_Pad,H2,MountingHole_2.5mm_Pad,
